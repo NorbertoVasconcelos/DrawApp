@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawApp</string>
+    <string name="draw_question">Can you a draw a tree?</string>
+    <string name="draw_output">You can draw in the blue area</string>
+</resources>
